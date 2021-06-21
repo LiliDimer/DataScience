@@ -1,2 +1,2 @@
 # DataScience
-Data science projects
+Working with data analysis and visualization.
